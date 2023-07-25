@@ -38,5 +38,10 @@ namespace ModerDesign.View
         {
             Application.Current.Shutdown();
         }
+
+        private void BtnLogin_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
