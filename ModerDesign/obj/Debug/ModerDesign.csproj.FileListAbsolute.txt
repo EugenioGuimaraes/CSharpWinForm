@@ -4,15 +4,15 @@ C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\bi
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign.csproj.AssemblyReference.cache
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign.csproj.SuggestedBindingRedirects.cache
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\MainWindow.g.cs
-C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\View\LoginView.g.cs
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\App.g.cs
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign_MarkupCompile.cache
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign_MarkupCompile.lref
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\MainWindow.baml
-C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\View\LoginView.baml
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign.g.resources
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign.Properties.Resources.resources
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign.csproj.GenerateResource.cache
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign.exe
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\ModerDesign.pdb
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\MVVM\View\LoginView.g.cs
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\ModerDesign\obj\Debug\MVVM\View\LoginView.baml
