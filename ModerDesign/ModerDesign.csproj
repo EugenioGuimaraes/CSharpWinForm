@@ -56,9 +56,9 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Core\ObservableObject.cs" />
-    <Compile Include="MVVM\ViewModel\LoginViewModel.cs" />
     <Compile Include="Core\RelayCommand.cs" />
-    <Compile Include="MVVM\ViewModel\ViewModelBase.cs" />
+    <Compile Include="MVVM\ViewModel\HomeViewModel.cs" />
+    <Compile Include="MVVM\ViewModel\MainViewModel.cs" />
     <Compile Include="MVVM\View\LoginView.xaml.cs">
       <DependentUpon>LoginView.xaml</DependentUpon>
     </Compile>
