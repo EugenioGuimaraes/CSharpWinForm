@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.5.33516.290
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModerDesign", "ModerDesign\ModerDesign.csproj", "{814F00A5-4144-4F71-B712-18EFF63FD639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashbord_App", "WindowsFormsApplication1\Dashbord_App.csproj", "{597A2C81-E85A-4929-9876-1D7AA4E11AA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{814F00A5-4144-4F71-B712-18EFF63FD639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{814F00A5-4144-4F71-B712-18EFF63FD639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{814F00A5-4144-4F71-B712-18EFF63FD639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597A2C81-E85A-4929-9876-1D7AA4E11AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597A2C81-E85A-4929-9876-1D7AA4E11AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597A2C81-E85A-4929-9876-1D7AA4E11AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597A2C81-E85A-4929-9876-1D7AA4E11AA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
