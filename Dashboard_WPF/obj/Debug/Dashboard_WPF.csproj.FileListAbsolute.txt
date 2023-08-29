@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe.config
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\bin\Debug\Dashboard_WPF.exe
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\bin\Debug\Dashboard_WPF.pdb
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\App.g.cs
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.cache
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF_MarkupCompile.lref
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\MainWindow.baml
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.g.resources
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.exe
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.pdb
