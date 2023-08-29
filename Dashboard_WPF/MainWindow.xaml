@@ -38,8 +38,30 @@
                 <RadioButton Content="Home"
                              Height="50"
                              Foreground="White"
-                             FontSize="14"/>
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+                <RadioButton Content="Discovery"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+                <RadioButton Content="Featured"
+                             Height="50"
+                             Foreground="White"
+                             FontSize="14"
+                             Style="{StaticResource MenuButtonTheme}"/>
+
             </StackPanel>
+
+
+            <TextBlock Width="250"
+                       Height="40"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Left"
+                       Margin="5"
+                       Grid.Column="1"
+                       Style="{StaticResource ModernTextBox}"/>
+            
             
         </Grid>
     </Border>
