@@ -14,3 +14,6 @@ C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.exe
 C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Dashboard_WPF.pdb
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\Usuario\Desktop\Eugenio\Studie\CSharpWinForm\ModerDesign\Dashboard_WPF\obj\Debug\App.baml
