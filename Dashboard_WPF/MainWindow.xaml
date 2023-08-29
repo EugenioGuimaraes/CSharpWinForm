@@ -54,7 +54,7 @@
             </StackPanel>
 
 
-            <TextBlock Width="250"
+            <TextBox Width="250"
                        Height="40"
                        VerticalAlignment="Center"
                        HorizontalAlignment="Left"
